@@ -1,0 +1,5 @@
+name=input("Enter candidate name : ")
+date=input("Enter date of applying : ")
+print("Dear",name)
+print("you are selected !")
+print(date)
