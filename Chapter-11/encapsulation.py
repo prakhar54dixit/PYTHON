@@ -4,7 +4,8 @@ class Car:
         self.model=model
 
     def get_brand(self):
-        return self.__brand 
+        return self.__brand
+     
     def full_name(self):
         return f"{self.__brand} {self.model}"
     
